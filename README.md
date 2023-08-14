@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student / Programmer / Cybersecurity</a></h1>
+<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student / Programmer interested in Cybersecurity & Software Developing</a></h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
