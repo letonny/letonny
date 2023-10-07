@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student / Programmer Interested in Cybersecurity & Software Developing</a></h1>
+<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student / Software Developer Interested in Software Engineering</a></h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
@@ -9,19 +9,12 @@
 <h2>👨‍💻 Webster University Projects:</h2>
 
 - <b>C++</b>
-  - [Hello World!](https://github.com/letonny)
-  - [Myself](https://github.com/letonny)
-  - [Calculating the Area of a Rectange](https://github.com/letonny)
-  - [Listing Ingredients](https://github.com/letonny)
-  - [Morra Game + Functions](https://github.com/letonny)
-  - [Alphabet Loops](https://github.com/letonny)
-  - [Characters](https://github.com/letonny)
-  - [Statistics](https://github.com/letonny)
-  - [Gravity Force Equation using Functions](https://github.com/letonny)
-  - [Reading Grades](https://github.com/letonny)
-  - [Deleting Loops](https://github.com/letonny)
+  - [Morra Game](https://github.com/letonny)
+  - [Student Searcher](https://github.com/letonny)
+  - [College Student Match Tracker](https://github.com/letonny)
+  - [Gravity Force Calculator](https://github.com/letonny)
+  - [Test Score Data](https://github.com/letonny)
   - [Memory Game](https://github.com/letonny)
-  - 
 
 <h2> 🤳 Connect with me:</h2>
 
