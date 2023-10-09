@@ -3,8 +3,6 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>C++</b>
-- <b>Python</b>
-- <b>Structured query language (SQL)</b>
 
 <h2>👨‍💻 Webster University Projects:</h2>
 
