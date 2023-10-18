@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student / Software Developer Interested in Software Engineering</a></h1>
+<h1>Hi, I'm Tonny! <br/><a href="https://www.linkedin.com/in/tonny-le-6404991a9/">Student & Software Developer - Interested in Software Engineering</a></h1>
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
