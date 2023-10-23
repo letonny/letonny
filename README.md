@@ -9,7 +9,7 @@
   - [Memory Game](https://github.com/letonny)
   - [Test Score Data](https://github.com/letonny)
   - [Student Searcher](https://github.com/letonny)
-  - [College Student Match Tracker](https://github.com/letonny)
+  - [Student Match Tracker](https://github.com/letonny)
 
 <h2> 🤳 Connect with me:</h2>
 
