@@ -4,7 +4,7 @@
 
 - <b>C++</b>
   - [Area of Rectangle Calculator](https://github.com/letonny)
-  - [Gravity Force Calculator](https://github.com/letonny)
+  - [Gravitational Force Calculator](https://github.com/letonny)
   - [Morra Game](https://github.com/letonny)
   - [Memory Game](https://github.com/letonny)
   - [Test Score Data](https://github.com/letonny)
