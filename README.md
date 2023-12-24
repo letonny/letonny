@@ -14,7 +14,7 @@
   - [Employee Data Handler](https://github.com/letonny/EmployeeDataHandler/blob/main/employeeDataHandler.cpp)
   - [Language Translation Assessment Program](https://github.com/letonny/Language-Translation-Assessment-Program)
   - [Sport Information Management System](https://github.com/letonny/Sport-Information-Management-System)
-  - [Rock Paper Scissors Game]([https://github.com/letonny/rock-paper-scissors-game])
+  - [Rock Paper Scissors Game (Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
 
 <h2> 🤳 Connect with me:</h2>
 
