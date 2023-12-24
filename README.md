@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Programming Projects:</h2>
 
 - <b>C++</b>
-  - [Area of Rectangle Calculator]([https://github.com/letonny](https://github.com/letonny/rectangle-area-calculator/blob/main/rectArea-calc.cpp))
+  - [Area of Rectangle Calculator](https://github.com/letonny/rectangle-area-calculator/blob/main/rectArea-calc.cpp)
   - [Gravitational Force Calculator]([https://github.com/letonny](https://github.com/letonny/gravitational-force-calculator/blob/main/grav-force-calculator.cpp))
   - [Morra Game]([https://github.com/letonny](https://github.com/letonny/morra-game/blob/main/morra-game.cpp))
   - [Memory Game]([https://github.com/letonny](https://github.com/letonny/memory-game/blob/main/memory-game.cpp))
