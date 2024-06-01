@@ -16,6 +16,10 @@
   - [Sport Information Management System](https://github.com/letonny/Sport-Information-Management-System)
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
 
+- <b>Python</b>
+
+- <b>Machine Learning</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="TonnyLe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
