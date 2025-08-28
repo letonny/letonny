@@ -16,7 +16,8 @@
   - [Sport Information Management System](https://github.com/letonny/Sport-Information-Management-System)
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
 
-- <b>Python</b>
+- <b>React</b>
+  - Scheduling Web Application
 
 - <b>Machine Learning</b>
 
