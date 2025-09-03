@@ -2,14 +2,10 @@
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
-- <b>C++</b>
   - [Morra Game](https://github.com/letonny/morra-game/blob/main/morra-game.cpp)
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
 
-- <b>React</b>
   - Scheduling Web Application
-
-- <b>Machine Learning</b>
 
 <h2> 🤳 Connect with me:</h2>
 
