@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Programming Projects:</h2>
 
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
-  - [Pulse AI Personal Trainer](https://github.com/letonny/personal-ai-trainer)
+  - [Pulse AI Fitness Trainer](https://github.com/letonny/personal-ai-trainer)
   - [Schotel]()
 
 <h2> 🤳 Connect with me:</h2>
