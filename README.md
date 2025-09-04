@@ -2,11 +2,9 @@
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
-  - [Morra Game](https://github.com/letonny/morra-game/blob/main/morra-game.cpp)
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
   - [Pulse AI Personal Trainer](https://github.com/letonny/personal-ai-trainer)
-
-  - Scheduling Web Application
+  - [Schotel]()
 
 <h2> 🤳 Connect with me:</h2>
 
