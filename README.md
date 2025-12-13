@@ -6,7 +6,7 @@
   - [Pulse AI Fitness Trainer](https://github.com/letonny/personal-ai-trainer)
   - [Schotel](https://github.com/tvay11/schedule)
   - [StockViz](https://github.com/letonny/stock-price-prediction)
-  - [SnapRecipe]([https://github.com/letonny/stock-price-prediction](https://github.com/letonny/SnapRecipe))
+  - [SnapRecipe](https://github.com/letonny/SnapRecipe))
 
 <h2> 🤳 Connect with me:</h2>
 
