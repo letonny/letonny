@@ -4,9 +4,9 @@
 
   - [Rock Paper Scissors Game (Live Socket Program)](https://github.com/letonny/rock-paper-scissors-game)
   - [Pulse AI Fitness Trainer](https://github.com/letonny/personal-ai-trainer)
+  - [SnapRecipe](https://github.com/letonny/SnapRecipe)
   - [Schotel](https://github.com/tvay11/schedule)
   - [StockViz](https://github.com/letonny/stock-price-prediction)
-  - [SnapRecipe](https://github.com/letonny/SnapRecipe)
 
 <h2> 🤳 Connect with me:</h2>
 
