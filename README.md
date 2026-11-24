@@ -6,7 +6,7 @@
   - [Pulse AI Fitness Trainer](https://github.com/letonny/personal-ai-trainer)
   - [Snapcipe](https://github.com/letonny/snapcipe)
   - [ShiftSync](https://github.com/tvay11/schedule-app)
-  - [SmartFlow](https://github.com/letonny/smartflow)
+  - [SmartFlow](https://github.com/letonny/smartflow-pub)
   - [TimeHack](https://github.com/letonny/TimeHack)
 
 <h2> 🤳 Connect with me:</h2>
